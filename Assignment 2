@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="card">
+    <h2 class="card-title">Card 1</h2>
+    <img class="card-image" src="path/to/image1.jpg" alt="Card 1 Image">
+    <p class="card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+  
+  <div class="card">
+    <h2 class="card-title">Card 2</h2>
+    <img class="card-image" src="path/to/image2.jpg" alt="Card 2 Image">
+    <p class="card-content">Pellentesque eu augue libero. Donec euismod feugiat tortor.</p>
+  </div>
+  
+  <div class="card">
+    <h2 class="card-title">Card 3</h2>
+    <img class="card-image" src="path/to/image3.jpg" alt="Card 3 Image">
+    <p class="card-content">Sed ac mauris lectus. Nulla et lectus vitae mauris ultricies lacinia vitae in diam.</p>
+  </div>
+</div>
